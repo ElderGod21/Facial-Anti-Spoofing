@@ -1,17 +1,2 @@
 # Ignore datasets (if sensitive or large in size)
 Dataset/
-
-# Ignore model files (if large)
-models/
-
-# Ignore logs and temporary files
-*.log
-*.tmp
-
-# Ignore system files
-.DS_Store
-Thumbs.db
-
-# Ignore PowerPoint and other personal files
-*.ppt
-*.pptx
